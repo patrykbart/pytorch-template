@@ -1,0 +1,19 @@
+experiment:
+  api_key: 
+  workspace: patrykbart
+
+data:
+  train: 
+  valid: 
+  test: 
+
+  tokenizer: False
+  embeddings: False 
+
+training:
+  epochs: 10
+  batch_size: 128
+  learning_rate: 0.001
+
+params:
+
